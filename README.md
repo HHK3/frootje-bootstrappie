@@ -5,21 +5,18 @@ Reconstructing a NOS page with Bootstrap
 - functions
 - Variables
 - mixins
-- Reboot
+
+- reboot
 - images
-- buttons
+- grid
+
 - transitions
 - dropdown
-- nav
 - navbar
-- media
-- list-group
+
 - carousel
 - utilities
-- print
-- biocard
-- quote
-- footer
+- ownFunctions
 
 # Link
 http://25061.hosts1.ma-cloud.nl/bewijzenmap/periode2.1/fro/bootstrappie/
