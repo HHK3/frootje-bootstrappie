@@ -12,18 +12,14 @@
 @import "reboot";
 @import "images";
 @import "grid";
-@import "buttons";
+
 @import "transitions";
 @import "dropdown";
-@import "nav";
 @import "navbar";
-@import "media";
-@import "list-group";
+
 @import "carousel";
 @import "utilities";
-@import "print";
 
-/*Zelf gemaakte SCSS bestanden*/
-@import "biocard";
-@import "quote";
-@import "footer";
+
+/*Zelf gemaakte SCSS bestand*/
+@import "ownFunctions";
